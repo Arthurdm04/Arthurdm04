@@ -27,7 +27,7 @@
 
 ### 🕒 Relógio Dinâmico  
 ⏳ Um site que exibe a hora atual e muda de cor conforme o horário do dia.  
-🔗 [Repositório](https://github.com/Arthurdm04/JS/tree/main/js/aula12ex/ex014)  
+🔗 https://arthurdm04.github.io/relogio-dinamico/  
 
 ---
 

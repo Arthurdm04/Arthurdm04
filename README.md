@@ -25,9 +25,9 @@
 
 ### 📂 Alguns projetos  
 
-#### 📌 [Projeto: Relógio Dinâmico](#)
+### 🕒 Relógio Dinâmico  
 ⏳ Um site que exibe a hora atual e muda de cor conforme o horário do dia.  
-🔗 **https://github.com/Arthurdm04/Js/tree/main/js/aula12ex/ex014**  
+🔗 [Repositório](https://github.com/Arthurdm04/JS/tree/main/js/aula12ex/ex014)  
 
 ---
 

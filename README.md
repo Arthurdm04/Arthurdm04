@@ -29,6 +29,9 @@
 ⏳ Um site que exibe a hora atual e muda de cor conforme o horário do dia.  
 🔗 https://arthurdm04.github.io/relogio-dinamico/  
 
+### 🎂 Classificador de Idade  
+🔗 https://arthurdm04.github.io/classificador-idade/  
+
 ---
 
 ### 🌍 Onde me encontrar  

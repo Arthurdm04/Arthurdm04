@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🌾 Site institucional do Grupo GMS<br> 🔗 https://arthurdm04.github.io/GMS)</p>
+<p align="left">🌾 Site institucional do Grupo GMS<br> 🔗 https://arthurdm04.github.io/GMS</p>
 
 
 

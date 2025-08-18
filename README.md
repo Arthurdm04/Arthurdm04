@@ -18,7 +18,7 @@
 
 ###
 
-<p align="left">🎂 Classificador de Idade<br>🔗 https://arthurdm04.github.io/classificador-idade/</p>
+<p align="left">🎂 Classificador de Idade<br>🔗 [https://arthurdm04.github.io/classificador-idade/](https://arthurdm04.github.io/GMS)</p>
 
 ###
 

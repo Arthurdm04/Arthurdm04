@@ -20,7 +20,6 @@
 
 <p align="left">🌾 Site institucional do Grupo GMS<br>🔗 https://arthurdm04.github.io/GMS</p>
 
-##
 <p aling="left">💼 Site para os links da minha namorada<br>🔗 https://arthurdm04.github.io/juliana-lemos-links/
 
 

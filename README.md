@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">⏳ Meu portfolio<br>🔗 https://arthurdm04.github.io/Portiforio/</p>
+<p align="left">⏳ Meu portfolio<br>🔗 https://arthurdm04.github.io/Portifolio/</p>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<p aling="left">💼 Site para os links da minha namorada<br>🔗 https://juliana-lemos-links.netlify.app/
+<p aling="left">💼 Site para os links da minha namorada<br>🔗 https://juliana-lemos-links.netlify.app/</p>
 
 
 

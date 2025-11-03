@@ -22,7 +22,7 @@
 
 ###
 
-<p aling="left">💼 Site para os links da minha namorada<br>🔗 https://juliana-lemos-links.netlify.app/</p>
+<p aling="left">💼 Site para os links da minha namorada<br>🔗 https://juliana-lemos.netlify.app/</p>
 
 
 

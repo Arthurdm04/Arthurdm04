@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">🚀 Sobre mim<br>📚 Estudando Python, JavaScript, Banco de Dados e Desenvolvimento Web<br>🎯 Buscando desafios que me ajudem a crescer profissionalmente<br>⚡ Curioso por novas tecnologias e boas práticas de programação</p>
+<p align="left">🚀 Sobre mim<br>📚 Estudante de Ciências da Computação e Desenvolvimento Web<br>🎯 Buscando desafios que me ajudem a crescer profissionalmente<br>⚡ Curioso por novas tecnologias e boas práticas de programação</p>
 
 ###
 

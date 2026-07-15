@@ -6,7 +6,7 @@
 
 ###
 
-<p data-importer="text" align="left">🚀 Sobre mim<br>💻 Desenvolvedor Frontend | Explorando Full Stack <br>🎓 Estudante de Ciência da Computação — UCB<br>🎯 Buscando desafios que me ajudem a crescer profissionalmente<br>⚡ Curioso por novas tecnologias e boas práticas de programação<br><br>📂 Alguns projetos<br><br>⏳ Meu portfolio<br>🔗 https://arthurdm04.github.io/Portifolio/<br><br>🌾 Site institucional do Grupo GMS<br>🔗 https://arthurdm04.github.io/GMS<br><br>💈 Barbearia Agendamentos (React + Node.js)<br>🔗 https://github.com/Arthurdm04/barbearia</p>
+<p data-importer="text" align="left">🚀 Sobre mim<br>💻 Desenvolvedor Frontend | Explorando Full Stack <br>🎓 Estudante de Ciência da Computação — UCB<br>🎯 Buscando desafios que me ajudem a crescer profissionalmente<br>⚡ Curioso por novas tecnologias e boas práticas de programação<br><br>📂 Alguns projetos<br><br>⏳ Meu portfolio<br>🔗 https://arthurdm04.github.io/Portifolio/<br><br>🌾 Site institucional do Grupo GMS<br>🔗 https://arthurdm04.github.io/GMS<br><br>💈 Barbearia Agendamentos (React + Node.js)<br>🔗 https://github.com/Arthurdm04/Barbearia-agendamentos</p>
 
 ###
 

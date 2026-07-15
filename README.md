@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center">Desenvolvedor Frontend Angular | Ciência da Computação</h2>
+<h2 align="center">Desenvolvedor Frontend | Ciência da Computação</h2>
 
 ###
 

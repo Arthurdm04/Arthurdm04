@@ -1,6 +1,6 @@
 <h1 align="center">Olá, sou Arthur Dias Moresco! 👋</h1>
 
-###
+
 
 <h2 align="center">Desenvolvedor Frontend | Ciência da Computação</h2>
 
